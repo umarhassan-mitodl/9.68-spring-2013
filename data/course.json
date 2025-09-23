@@ -1,0 +1,58 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Cognitive Science"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neurobiology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Neuroscience"
+    ],
+    [
+      "Social Science",
+      "Psychology"
+    ]
+  ],
+  "legacy_uid": "9561cc5b-e71c-26d4-e2f7-ece7f7e8c455",
+  "instructors": {
+    "content": [
+      "e39a48aa-8aa6-4873-cace-ee06ca41b01b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "356e2565-7ee0-f140-0c71-2bf0029f404d",
+    "website": "9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013"
+  },
+  "course_title": "Affect: Neurobiological, Psychological and Sociocultural Counterparts of \"Feelings\"",
+  "course_description": "This course studies the relations of affect to cognition and behavior, feeling to thinking and acting, and values to beliefs and practices. These connections will be considered at the psychological level of organization and in terms of their neurobiological and sociocultural counterparts.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.68",
+  "course_image_thumbnail": {
+    "content": "1bb259be-1b74-f85e-fbcd-a7b3e0c7c128",
+    "website": "9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Instructor Insights"
+  ],
+  "site_uid": "cf7819e4-662c-4d79-a5da-0931ba9fc6d2",
+  "site_short_id": "9.68-spring-2013",
+  "site_url_path": "courses/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013",
+  "title": "Course Metadata"
+}
