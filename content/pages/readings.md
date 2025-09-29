@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics along with the readings
   and viewings for each lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -85,7 +87,7 @@ MFA Field Trip
 
 3.2 MFA field trip guide and timeline handout
 
-3.3 "{{% resource_link "b387f2df-3354-466f-af38-ac63bcf12f81" "_Powers of Ten_" %}}." Written and directed by Ray, and Charles Eames. 1977. \[Eames Office, LLC, USA, digital production.\]
+3.3 "[_Powers of Ten_](http://poweroften.ca/)." Written and directed by Ray, and Charles Eames. 1977. \[Eames Office, LLC, USA, digital production.\]
 
 3.4 Timescales handout
 
@@ -117,9 +119,9 @@ _Problematique du changement_ I
 
 5.1 Kuhn, Thomas S. _The Structure of Scientific Revolutions_. University of Chicago Press, 1970. ISBN: 9780226458045.
 
-5.2 Snow, Charles Percy. "{{% resource_link "caadc730-14ea-48cb-a823-9c6c7c7ff867" "The Two Cultures" %}}." _New Statesman_ 6 (1956): 413–4.
+5.2 Snow, Charles Percy. "[The Two Cultures](http://www.newstatesman.com/cultural-capital/2013/01/c-p-snow-two-cultures)." _New Statesman_ 6 (1956): 413–4.
 
-5.3 "{{% resource_link "2ea8cdb6-13f2-4e5b-a21c-6216806c48aa" "_Mindwalk_" %}}." Directed by Bernt Capra. Color, 112 min. 1990. \[Distributed by Triton Pictures, USA, digital production.\]
+5.3 "[_Mindwalk_](http://www.imdb.com/title/tt0100151/)." Directed by Bernt Capra. Color, 112 min. 1990. \[Distributed by Triton Pictures, USA, digital production.\]
 
 5.4 Chorover, Stephan L. "Comparing and Contrasting Scientific Paradigms." In _HomeWork: An Environmental Literacy Primer_. Collaborative Learning Systems, Cambridge, MA, 1995.
 
@@ -157,7 +159,7 @@ Wrapping Up Phase One
 
 7.1 \[ZAAM\] Chapters 27–32.
 
-7.2 Berlioz, Hector. "{{% resource_link "889a9fb2-816a-4429-a363-4beea5fd253a" "_Keeping Score Season 2: Symphonie Fantastique_" %}}." Michael Tilson Thomas and the San Francisco Symphony. Originally aired on October 16, 2009. \[PBS, USA, video production.\]
+7.2 Berlioz, Hector. "[_Keeping Score Season 2: Symphonie Fantastique_](https://www.pbs.org/keepingscore/episodes.html)." Michael Tilson Thomas and the San Francisco Symphony. Originally aired on October 16, 2009. \[PBS, USA, video production.\]
 
 
 {{< tdclose >}}
@@ -177,7 +179,7 @@ The Neuropsychology of Affect
 
 8.2 Oatley, Keith, Dacher Keltner, and Jennifer M. Jenkins. Chapter 5 in _Understanding Emotions_. Wiley-Blackwell, 2006. ISBN: 9781405131032.
 
-8.3 "{{% resource_link "7529ba31-4b94-4ed0-a8ea-fbca7662cb61" "_Stress: Portrait of a Killer_" %}}." Produced, directed and written by John Heminway. 2008. \[National Geographic Television, Washington, DC, video production.\]
+8.3 "[_Stress: Portrait of a Killer_](https://news.stanford.edu/news/2008/september10/stress-091008.html)." Produced, directed and written by John Heminway. 2008. \[National Geographic Television, Washington, DC, video production.\]
 
 
 {{< tdclose >}}
@@ -195,7 +197,7 @@ Neurosurgery: The Science of Violence and Vice-Versa
 
 9.1 Crichton, Michael. _The Terminal Man_. Arrow / Children's, 1996. ISBN: 9780099442110.
 
-9.1 (cont.) "{{% resource_link "32d66e8d-b9be-478d-b164-4907ba2bd0a2" "_The Terminal Man_" %}}." Directed by Mike Hodges. Color, 107 min. 1974. \[Warner Bros, Burbank, CA, video production.\]
+9.1 (cont.) "[_The Terminal Man_](http://www.imdb.com/title/tt0072267/)." Directed by Mike Hodges. Color, 107 min. 1974. \[Warner Bros, Burbank, CA, video production.\]
 
 9.2 Mark, Vernon H., and Frank R. Ervin. _Violence and the Brain_. Medical Department, Harper & Row, 1970.
 
@@ -235,7 +237,7 @@ Fathering the Unthinkable?
 
 11.1 Frayn, Michael. _Copenhagen_. Anchor, 2000. ISBN: 9780385720793.
 
-11.2 "{{% resource_link "137a0e61-8586-400c-b951-754f199bd3f7" "_Copenhagen_" %}}." Directed by Howard Davies. Color, 90 min. 2002. \[BBC, London, England, video production.\] {{% resource_link "08eeb005-4a05-4dab-96f2-9bf0ffce4c24" "www.pbs.org/hollywoodpresents/copenhagen/index.html" %}}
+11.2 "[_Copenhagen_](http://www.imdb.com/title/tt0340057/)." Directed by Howard Davies. Color, 90 min. 2002. \[BBC, London, England, video production.\] [www.pbs.org/hollywoodpresents/copenhagen/index.html](http://www.pbs.org/hollywoodpresents/copenhagen/index.html)
 
 
 {{< tdclose >}}
