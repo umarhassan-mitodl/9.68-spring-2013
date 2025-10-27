@@ -4,8 +4,6 @@ description: ''
 file: /courses/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/a29c45813a6c1e32e242105b03f5a96b_9-68_stat-students.png
 file_size: 3001
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
