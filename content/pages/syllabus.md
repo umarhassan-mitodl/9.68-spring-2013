@@ -23,33 +23,33 @@ This course studies the relations of affect to cognition and behavior, feeling t
 
 The syllabus contains, in a single document, a detailed description of the approach to 9.68 including information about the reading and writing assignments, the collaborative learning system, study groups and grading. {{% resource_link "df7f38f4-c2ae-12e0-e118-04c28e84b928" "(PDF)" %}}
 
-- [Introduction and Overview](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_1)
-- [Conduct and Administration of Subject](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_28)
-- [Students: Caveat Emptor](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_3)
-- [Final grades](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_4)
-- [Instructional subsystem](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_5)
-- [Communication](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_6)
-- [Being there: Attendance and participation](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_7)
-- [Consider your attitudes](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_8)
-- [Study groups](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_9)
-- [First group meeting](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_10)
-- [Developmental trajectories](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_11)
-- [Formative evaluation](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_12)
-- [Workload](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_13)
-- [The MFA field trip](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_14)
-- [Assignments](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_15)
-- [Required text](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_16)
-- [Additional Readings](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_17)
-- [Viewing films](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_18)
-- [Journal-keeping](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_30)
-- [Keeping a timesheet](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_19)
-- [Writing reaction papers](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_20)
-- [Plagiarism](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_21)
-- [Paper chase format](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_22)
-- [What is collaborative learning?](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_23)
-- [Planning/producing end-of-term project or paper](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_24)
-- [Interim and final grades](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_25)
-- [A final note about the 9.68 learning process](https://ocw-studio.odl.mit.edu/sites/9-68-affect-neurobiological-psychological-and-sociocultural-counterparts-of-feelings-spring-2013/type/page/edit/ed3f447f-93b2-f94f-d45f-a970e4baff4b/#Syllabus_26)
+- {{% resource_link "db872d8a-551f-470b-bbdb-60ee78bb12b2" "Introduction and Overview" %}}
+- {{% resource_link "c4e58a1b-fc2d-48fb-b3fd-37b52eaf8eec" "Conduct and Administration of Subject" %}}
+- {{% resource_link "4d15e0e3-c8f3-4285-9a34-ebf16525bdfd" "Students: Caveat Emptor" %}}
+- {{% resource_link "794824d8-be97-4f0b-b7b8-1ff745bcf770" "Final grades" %}}
+- {{% resource_link "3124ec3d-8cc7-4b26-8f25-60c83cf39d0b" "Instructional subsystem" %}}
+- {{% resource_link "01cdaeaf-3a3b-4d1a-b4a5-91025bef5cef" "Communication" %}}
+- {{% resource_link "45ee50ef-2ea7-496c-9ade-5512ac727185" "Being there: Attendance and participation" %}}
+- {{% resource_link "0811e7fe-8730-44e9-9325-cb5abea084ac" "Consider your attitudes" %}}
+- {{% resource_link "07014be2-f9a6-4f20-9679-725fad4f642f" "Study groups" %}}
+- {{% resource_link "a00a220d-25ea-46d7-a4d5-f58317373be5" "First group meeting" %}}
+- {{% resource_link "0ba8c7a3-8b02-4c1f-bad4-6ca4bb1c8cb9" "Developmental trajectories" %}}
+- {{% resource_link "5a1ec9a4-d4eb-41f6-bc46-af759e46fb42" "Formative evaluation" %}}
+- {{% resource_link "8d06f18c-9db8-4b45-ab51-9513941ccb2e" "Workload" %}}
+- {{% resource_link "16a5b2db-86eb-495a-bb81-cc562478d2df" "The MFA field trip" %}}
+- {{% resource_link "036ea74c-8e98-4618-b1bd-745187ee170c" "Assignments" %}}
+- {{% resource_link "0e71fd69-44bf-4d77-8ccf-77a755143da1" "Required text" %}}
+- {{% resource_link "4df79ff3-43b5-4329-ae3b-143d416c767d" "Additional Readings" %}}
+- {{% resource_link "21fe99b6-7119-481a-9df8-4420eee874d5" "Viewing films" %}}
+- {{% resource_link "39028282-4a05-471f-a5d7-de393677fc12" "Journal-keeping" %}}
+- {{% resource_link "06281075-c14d-437b-92ab-5a4e03642bf9" "Keeping a timesheet" %}}
+- {{% resource_link "314d5245-5437-404e-9b9b-41bc66584e4c" "Writing reaction papers" %}}
+- {{% resource_link "d3d7600f-a19c-4837-ba9e-aaedb48305dc" "Plagiarism" %}}
+- {{% resource_link "bc5f0acc-94f8-459c-957d-41b99c146a52" "Paper chase format" %}}
+- {{% resource_link "e2161c40-a3a6-4be8-9a0b-e70fa2c0dd42" "What is collaborative learning?" %}}
+- {{% resource_link "280eb446-4d5a-4f94-8b8d-5ac035fe85de" "Planning/producing end-of-term project or paper" %}}
+- {{% resource_link "e554e010-a36b-43cc-928b-187973302f1d" "Interim and final grades" %}}
+- {{% resource_link "fdd076b3-c151-4920-a1c6-e681a024ed1e" "A final note about the 9.68 learning process" %}}
 
 ## {{< anchor "Syllabus_1" >}}{{< /anchor >}}Introduction and Overview
 
@@ -279,7 +279,7 @@ Except for the final term paper (see below) no letter or number grades will be a
 
 ### {{< anchor "Syllabus_23" >}}{{< /anchor >}}What is Collaborative Learning?
 
-We define the groups that we have randomly formed (and their individual members) as 9.68 subsystems. This leads into a discussion of the "systems approach" to be taken. At the outset, a distinction needs to be drawn between cooperative and collaborative learning. See, e.g. [Tough Questions: "What's the difference between collaborative and cooperative learning?"](https://web.archive.org/web/20160613211703/http://archive.wceruw.org/cl1/CL/question/TQ13.htm)
+We define the groups that we have randomly formed (and their individual members) as 9.68 subsystems. This leads into a discussion of the "systems approach" to be taken. At the outset, a distinction needs to be drawn between cooperative and collaborative learning. See, e.g. {{% resource_link "6b8eabc7-6656-4af5-b3ba-4cdefaa2b1e5" "Tough Questions: \"What's the difference between collaborative and cooperative learning?\"" %}}
 
 We aim to create a classroom environment conducive to meaningful collaborative learning. We hope and expect that each and every one of you will find it both fun and informative—a quality learning experience.
 
